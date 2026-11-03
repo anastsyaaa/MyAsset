@@ -4,7 +4,7 @@
 
 Aplikasi ini menggunakan **Supabase** sebagai layanan autentikasi dan penyimpanan data.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **Login dan Registrasi** : Membuat akun dan masuk ke aplikasi.
 - **Dashboard** : Melihat ringkasan informasi aset.
@@ -15,7 +15,7 @@ Aplikasi ini menggunakan **Supabase** sebagai layanan autentikasi dan penyimpana
 - **Profil Pengguna** : Mengakses informasi akun.
 - **Foto Aset** : Menambahkan foto yang disimpan secara lokal di perangkat.
 
-## 🛠️ Teknologi
+## Teknologi
 
 - Flutter
 - Dart
