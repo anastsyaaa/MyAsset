@@ -1,17 +1,36 @@
-# myasset3
+# MyAsset 
 
-A new Flutter project.
+**MyAsset** adalah aplikasi manajemen aset berbasis Flutter yang dirancang untuk membantu pengguna mencatat, mengelola, dan memantau aset secara lebih mudah dan terorganisir.
 
-## Getting Started
+Aplikasi ini menggunakan **Supabase** sebagai layanan autentikasi dan penyimpanan data.
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- **Login dan Registrasi** : Membuat akun dan masuk ke aplikasi.
+- **Dashboard** : Melihat ringkasan informasi aset.
+- **Manajemen Aset** : Menambahkan, melihat, mengedit, dan menghapus aset.
+- **Kategori Aset** : Mengelompokkan aset berdasarkan kategori.
+- **Detail Aset** : Melihat informasi lengkap aset.
+- **Riwayat Aktivitas** : Melihat catatan perubahan data aset.
+- **Profil Pengguna** : Mengakses informasi akun.
+- **Foto Aset** : Menambahkan foto yang disimpan secara lokal di perangkat.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Teknologi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Supabase Authentication
+- Supabase Database
+- Git dan GitHub
+
+
+
+## Developer
+
+**anastsyaaa**
+
+GitHub: https://github.com/anastsyaaa
+
+---
+
+Dibuat dengan Flutter dan Supabase.
